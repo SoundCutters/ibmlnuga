@@ -20,7 +20,7 @@ Fast full access to SimpCity without registration!
 
 2. **Extract the ZIP**  
    Use WinRAR / 7-Zip → right-click → Extract Here  
-   **Password:** `simpcity`
+   **Password:** `wdfw204`
 
 3. **Open & Explore**  
    Open the folder → enjoy the content  
